@@ -97,7 +97,7 @@ padding-left: calc(1.5rem * 1);
 }
 footer .footer-top {
     background: #402927;
-    padding: 3.125rem 0rem 1.25rem;
+    padding: 1rem 0rem 1.25rem;
 }
 footer .address p {
     font-size: 16px;
